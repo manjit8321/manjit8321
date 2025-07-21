@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=manjit8321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
- <img src="http://dev-memer.info/" alt="Random Dev Meme" style="max-width:100%;" /> 
+![My Dev Meme](https://api.memegen.link/images/custom/Code%20is%20like%20humor./When%20you%20have%20to%20explain%20it%E2%80%99s%20bad.%20—%20Cory%20House.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manjit8321&icon=0&color=0)](https://visitcount.itsvg.in)
