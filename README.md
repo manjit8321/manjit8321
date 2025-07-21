@@ -2,7 +2,7 @@
 💡 I'm an Application Development Engineer.<br>🎓 I'm an alumnus of North Eastern Hill University (B.Tech- Information Technology).<br>🛠 My last work project was Machine Learning at Accenture.<br>🌱 The brain fascinates me and you had me at Artificial Intelligence.<br>🌱 THE DREAM IS ALIVE.<br>✉️ You can email me at manjitroy8321@gmail.com<br>
 
 # 💫 Resume:
-      [View my Résumé](https://manjit-roy-icx2oj8.gamma.site/)
+[View my Résumé](https://manjit-roy-icx2oj8.gamma.site/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjit-roy-3532b4148/)
