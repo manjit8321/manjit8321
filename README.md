@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manjit8321&limit=5&theme=dark&combine_all_yearly_contributions=true&width=800)
+![](https://github-contributor-stats.vercel.app/api?username=manjit8321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 ![My Dev Meme](https://api.memegen.link/images/custom/Code%20is%20like%20humor./When%20you%20have%20to%20explain%20it%E2%80%99s%20bad.%20—%20Cory%20House.png)
